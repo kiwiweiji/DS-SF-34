@@ -1,0 +1,463 @@
+    1  /Users/weiji/Library/Application\ Support/MhxyForMac/wswine.bundle/bin/梦幻西游ONLINE ; exit;
+    2  /Users/weiji/Library/Application\ Support/MhxyForMac/wswine.bundle/bin/梦幻西游ONLINE ; exit;
+    3  if [ -r somefile ]; then  echo $(cat somefile); elif [ -f somefile ]; then  echo “The file ‘somefile’ exists but is not readable.”; else  echo “The file ‘somefile’ does not exist.”;  ls
+    4  ls
+    5  cd Downloads/
+    6  ls
+    7  cd ..
+    8  cd Documents/
+    9  ls
+   10  vi text1.sh
+   11  vi text1.sh
+   12  ls
+   13  ./text1.sh
+   14  chmod 777 text1.sh
+   15  ./text1.sh
+   16  ./text1.sh text1.rtf
+   17  vi text1.txt
+   18  ls
+   19  ./text1.sh text1.txt
+   20  chmod 777 text1.txt
+   21  ./text1.sh text1.txt
+   22  vi text1.sh
+   23  vi text1.sh
+   24  ./text1.sh text1.txt
+   25  vi text1.sh
+   26  ./text1.sh text1.txt
+   27  vi text1.sh
+   28  ./text1.sh text1.txt
+   29  vi text1.sh
+   30  vi text1.txt
+   31  ./text1.sh text1.txt
+   32  ./text1.sh text1.rtf
+   33  echo $shell
+   34  cd1
+   35  cd1 documents
+   36  i
+   37  :i
+   38  vi test.sh
+   39  sh test.sh 2 4
+   40  vi test11.sh
+   41  sh test11.sh 1 3
+   42  pwd
+   43  sh menu.sh
+   44  sh menu.sh 
+   45  ps
+   46  ps | grep microsoft
+   47  pwd
+   48  man pwd
+   49  cat menu.sh
+   50  cat > newfile
+   51  cat newfile
+   52  echo "$HOSTNAME"
+   53   hostname
+   54  var1 = 15
+   55  var1=50
+   56  echo "$var1"
+   57  echo I have one variable
+   58  echo i have one variable, and the value is "$var"
+   59  I have one variable, and the value is "$var1"
+   60  echo I have one varible, and the value is "$var1
+   61  ./ystriangle.sh 10
+   62  ls
+   63  ls ystriangle.sh 
+   64  sh sh ystriangle.sh 10
+   65  sh ystriangle.sh 10
+   66  ./ystriangle.sh
+   67  chmode +x ystriangle.sh 
+   68  chmode 777  ystriangle.sh 
+   69  chmod 777  ystriangle.sh 
+   70  ./ystriangle.sh
+   71  ystriangle.sh
+   72  sh ystriangle.sh
+   73  ./ ystriangle.sh
+   74  ./ystriangle.sh
+   75  ./ystriangle.sh
+   76  ls
+   77  ls -l
+   78  ls -l
+   79  vi newfile.txt 
+   80  vi file1
+   81  vi file1.txt
+   82  view file1.txt
+   83  view file1
+   84  tail file1
+   85  tail file1.txt
+   86  head file1.txt
+   87  mkdir sub1
+   88  cd sub1
+   89  pwd
+   90  ls
+   91  cp ../file1 .
+   92  cp ../file1.txt .
+   93  ls
+   94  ls -l
+   95  mv file1.txt myfile
+   96  ls
+   97  cp myfile ../.
+   98  cd ../
+   99  pwd
+  100  ls
+  101  rm myfile
+  102  rm sub1
+  103  pwd
+  104  rm sub1
+  105  cd ..
+  106  rm sub1
+  107  pwd
+  108  cd weiji
+  109  rm -r sub1
+  110  ls -l
+  111  chmod a+wx cp file1.txt ../myfile.
+  112  cp file1.txt ../.
+  113  chmod 777
+  114  cp file1.txt ../.
+  115  cp ../file1.txt .
+  116  cp ../file1.txt
+  117  cd ..
+  118  pwd
+  119  cd weiji
+  120  pwd
+  121  mv file1.txt myfile
+  122  mv file1.txt myfile.txt
+  123  mv file1.txt myfile.txt
+  124  pwd
+  125  ls
+  126  mv file1.txt myfile.txt
+  127  chmod ls -l
+  128  ls -l
+  129  chmod a+wx myfile.txt 
+  130  ls -l
+  131  pwd
+  132  mkdir sub1
+  133  cd sub1
+  134  pws
+  135  pwd
+  136  cp myfile.txt ../.
+  137  vi myfile.txt
+  138  cp myfile.txt ../.
+  139  ls
+  140  vi myfile.txt
+  141  ls
+  142  vi myfile.txt
+  143  ls
+  144  cp myfile.txt ../.
+  145  pwd
+  146  cd ..
+  147  pwd
+  148  cp myfile.txt ../sub1
+  149  ls -l
+  150  cp myfile.txt ./sub1
+  151  ls -al
+  152  cd ..
+  153  pwd
+  154  cd weiji
+  155  mkdir layer1a
+  156  mkdir layer1b
+  157  mkdir layer1c
+  158  cd layer1a
+  159  pwd
+  160  mkdir layer2a
+  161  mkdir layer2b
+  162  mkdir layer2c
+  163  cd ../../
+  164  sh calculator.sh
+  165  pwd
+  166  cd weiji
+  167  calculator.sh
+  168  sh calculator.sh 
+  169  sh calculator.sh 
+  170  sh calculator.sh 
+  171  pwd
+  172  cd shell
+  173  pwd
+  174  sh calculator.sh
+  175  cd layer1a
+  176  cd ..
+  177  cd layer1b
+  178  mkdir layer2a
+  179  mkdir layer2b
+  180  mkdir layer2c
+  181  cd..
+  182  cd ..
+  183  layer1c
+  184  cd layer1c
+  185  mkdir layer2a
+  186  mkdir layer2b
+  187  mkdir layer2c
+  188  cd ..
+  189  cd layer1a
+  190  cd layer2a
+  191  cat > ti
+  192  grep --color university t1
+  193  pwd
+  194  ps | grep --color university t1
+  195  vi t1
+  196  man cat
+  197  vi t2
+  198  cat t1 t2 > t3
+  199  vi t3
+  200  grep University t3
+  201  grep --color university t3
+  202  grep --color university t1
+  203  grep --color University t1
+  204  grep -i university t3
+  205  grep -i -- color university t3
+  206  grep -i --color university t3
+  207  cat t4
+  208  cat > t4
+  209  ls
+  210  cd shell
+  211  ls
+  212  chmod +x
+  213  chmod +x FinalProject.sh 
+  214  ./FinalProject.sh 
+  215  sh FinalProject.sh 
+  216  ls
+  217  cd shell
+  218  ls
+  219  sh FinalProject.sh 
+  220  ls
+  221  cd shell
+  222  run git
+  223  git
+  224  ipython notebook
+  225  ls
+  226  ls -la
+  227  cd D
+  228  Do
+  229  GA
+  230  Desktop/GA
+  231  LS
+  232  Desktop
+  233  Desktop/
+  234  ls
+  235  ls Desktop/
+  236  cd Desktop/GA/
+  237  LS
+  238  cd ..
+  239  cd ..
+  240  /Users/weiji/anaconda/bin/jupyter_mac.command ; exit;
+  241  /Users/weiji/anaconda/bin/jupyter_mac.command ; exit;
+  242  /Users/weiji/anaconda/bin/jupyter_mac.command ; exit;
+  243  /Users/weiji/anaconda/bin/jupyter_mac.command ; exit;
+  244  ssh -T git@github.com
+  245  git config --global push.default simple
+  246  condo info
+  247  conda info
+  248  cd
+  249  cd DS-SF-34/
+  250  cs
+  251  cd
+  252  cd
+  253  cd ..
+  254  cd DS-SF-34
+  255  ls
+  256  cd DS-SF-34/
+  257  cd ..
+  258  ls
+  259  cd DS-SF-34/
+  260  ls
+  261  :q!
+  262  pwd
+  263  date
+  264  cal
+  265  ls -ld
+  266  ls
+  267  jupyter note
+  268  cd DS-SF-34/
+  269  git status
+  270  git diff
+  271  cd DS-SF-34/
+  272  git diff
+  273  git add
+  274  git add classes/01/notebooks/assignment-01-what-is-data-science-starter-code.ipynb 
+  275  git diff
+  276  git log
+  277  pwd
+  278  jupyter notebook
+  279  git clone https://github.com/kiwiweiji/DS-SF-34
+  280  ls
+  281  cd DS-SF-34
+  282  ls
+  283  cs classes/01/notebooks/
+  284  cd classes/01/notebooks/
+  285  ls
+  286  cd assignment-01-what-is-data-science-starter-code.ipynb 
+  287  jupyter notebook
+  288  cd DS-SF-34/
+  289  git commit -m"Yah"
+  290  git push
+  291  git status
+  292  pwd
+  293  jupyter notebook
+  294  pwd
+  295  ls
+  296  DS-SF-34/
+  297  ls
+  298  cd DS-SF-34/
+  299  ls
+  300  cl
+  301  cd classes/
+  302  ls
+  303  cd 01
+  304  ls
+  305  PWD
+  306  cd DS-SF-34/
+  307  cd DS-SF-34/
+  308  ls
+  309  cd classes/
+  310  cd 01
+  311  ls
+  312  cd notebooks/
+  313  ls
+  314  jupyter notebook
+  315  ls
+  316  cd Desktop/
+  317  ls
+  318  cd GA
+  319  jupyter notebook
+  320  cd DS-SF-34/
+  321  jupyter notebook
+  322  ls
+  323  cd DS-SF-34/
+  324  git log
+  325  git status
+  326  git add classes/01/notebooks/assignment-01-what-is-data-science-starter-code.ipynb
+  327  git status
+  328  git commit -m"More work done on my assignment"
+  329  git status
+  330  git log
+  331  git push
+  332  git remote -v
+  333  git remote add upstream https://github.com/ga-student/DS-SF-34
+  334  git remote -v
+  335  git fetch upstream
+  336  git remote add upstream https://github.com/ga-students/DS-SF-34
+  337  git remote rm upstream
+  338  weiji$ git remote add upstream https://github.com/ga-students/DS-SF-34
+  339  DS-SF-34 weiji$ git remote add upstream https://github.com/ga-students/DS-SF-34
+  340  git remote add upstream https://github.com/ga-students/DS-SF-34
+  341  git remote -v
+  342  git fetch upstream
+  343  git merge upstream/master
+  344  git commit -m"merged commits from ga-students/DS-SF-34 for an up-to-date fork"
+  345  git push
+  346  cd
+  347  ls
+  348  DS-SF-34/
+  349  cd DS-SF-34/
+  350  jupyter notebook
+  351  ls
+  352  cd DS-SF-34/
+  353  jupyter notebook
+  354  pwd
+  355  cd DS-SF-34/
+  356  jupyter notebook
+  357  ipython
+  358  ipython --pylab
+  359  ipython -pylab
+  360  /Users/weiji/anaconda/bin/jupyter_mac.command ; exit;
+  361  ls
+  362  cd DS-SF-34/
+  363  jupyter notebook
+  364  ipython --pylab
+  365  git fetch upstream/master
+  366  git status
+  367  /Users/weiji/anaconda/bin/jupyter_mac.command ; exit;
+  368  cd DS-SF-34/
+  369  ls
+  370  cd classes/
+  371  ls
+  372  cd 03
+  373  ls
+  374  cd notebooks/
+  375  ls
+  376  ..cd
+  377  cd ..
+  378  cd datasets/
+  379  ls
+  380  cd dataset-03-bistro.db 
+  381  sqlite3 dataset-03-bistro.db 
+  382  git status
+  383  cd DS-SF-34/
+  384  git status
+  385  git add-A
+  386  git add -A
+  387  git status
+  388  git commit -m"4/24 update"
+  389  git status
+  390  ls
+  391  cd classes/
+  392  ls
+  393  git fetch upstream
+  394  git pull upstream master
+  395  jupyter notebook
+  396  /Users/weiji/anaconda/bin/jupyter_mac.command ; exit;
+  397  ipython
+  398  ipython qtconsole --pylab=inline
+  399  ip_info
+  400  python -m cProfile cprof_example.py
+  401  ipython notebook --pylab=inline
+  402  jupyter notebook
+  403  ipython
+  404  ipython
+  405  sublime
+  406  sublime text
+  407  /Users/weiji/anaconda/bin/jupyter_mac.command ; exit;
+  408  ipython
+  409  /Users/weiji/anaconda/bin/jupyter_mac.command ; exit;
+  410  ls
+  411  jupyter notebook
+  412  git status
+  413  ls
+  414  cd DS-SF-34/
+  415  git status
+  416  git add -A
+  417  git status
+  418  git commit -m 'updated class3'
+  419  git push
+  420  git remote -v
+  421  git pull upstream master
+  422  git status
+  423  git add c
+  424  git add classes/03/datasets/dataset-03-reviews.csv 
+  425  git commit -m'not sure'
+  426  git status
+  427  git push
+  428  git status
+  429  cd DS-SF-34/
+  430  git status
+  431  git pull upstream master
+  432  git fetch
+  433  git merge
+  434  ls
+  435  git status
+  436  git pull upstream master
+  437  pull upstream master
+  438  pwd
+  439  cd DS-SF-34/
+  440  git status
+  441  pull upstream master
+  442  git pull upstream master
+  443  pwd
+  444  DS-SF-34/
+  445  git status
+  446  cd DS-SF-34/
+  447  git status
+  448  git add -A
+  449  git commit 'finishing HW3'
+  450  git commit -m'finishing HW3'
+  451  git push
+  452  git pull upstream master
+  453  git pull upstream master
+  454  git status
+  455  git commit -m "."
+  456  git pull upstream master
+  457  ls
+  458  cd classes/
+  459  ls
+  460  cd 04
+  461  ls
+  462  history
+  463  history > ivan.txt
