@@ -1,0 +1,22 @@
+1.The Problem: 
+The H-1B is an employment-based, nonimmigrant visa category for temporary foreign workers in the United States. I use the data from 2011-2016 to explore the distribution of H1b visas in different companies and different occupations. That will help foreign labors to choose the right industry and the right place to apply for the job which might assure to get their H1b visa approved.
+
+2. The Data:
+The Office of Foreign Labor Certification (OFLC) generates program data that is useful information about the immigration programs including the H1-B visa. It contains the detailed information of each petition case. The data provided by OFLC from 2011- 2016 is 3002458 rows multiply by 11 columns. The data legend is described as follow:
+
+(CASE_STATUS: Status associated with the last significant event or decision. Valid values include “Certified,” “Certified-Withdrawn,” Denied,” and “Withdrawn”.
+EMPLOYER_NAME: Name of employer submitting labor condition application.
+SOC_NAME: Occupational name associated with the SOC_CODE. SOC_CODE is the occupational code associated with the job being requested for temporary labor condition, as classified by the Standard Occupational Classification (SOC) System.
+JOB_TITLE: Title of the job
+FULL_TIME_POSITION: Y = Full Time Position; N = Part Time Position
+PREVAILING_WAGE: Prevailing Wage for the job being requested for temporary labor condition. The wage is listed at annual scale in USD. The prevailing wage for a job position is defined as the average wage paid to similarly employed workers in the requested occupation in the area of intended employment. The prevailing wage is based on the employer’s minimum requirements for the position.
+YEAR: Year in which the H-1B visa petition was filed
+WORKSITE: City and State information of the foreign worker's intended area of employment
+lon: longitude of the Worksite
+lat: latitude of the Worksite)
+
+3. My Hypotheses:
+
+(1). Is the number of petitions with Data Scientist job title increasing over time?
+(2). Is the Bay Area has the most Data Scientist jobs in the US? 
+(3). Is Google the employer file the most petitions each year? If not, who is that?
